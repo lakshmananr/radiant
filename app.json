@@ -1,0 +1,17 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "radiant",
+  "scripts": {
+    "postdeploy": "index.html"
+  },
+  "stack": "heroku-18"
+}
